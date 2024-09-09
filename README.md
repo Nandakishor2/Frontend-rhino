@@ -25,7 +25,7 @@ Node.js and npm should be installed on your machine.
 Setup Instructions
 1. Clone the Repository
    
-git clone https://github.com/YourUsername/Frontend-rhino.git
+git clone https://github.com/Nandakishor2/Frontend-rhino.git
 
 Navigate To folder
 cd Frontend-rhino
